@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Snarky</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="manageSnarky">Manage</string>
+    <string name="snarky">SNARKY - shake me!</string>
+    <string name="title_activity_manage_comments">Manage Comments</string>
+    <string name="newComment">New Comment</string>
+    <string name="save">Save</string>
+    <string name="next">Next</string>
+    <string name="shakeMe">Shake Me</string>
+    <string name="title_activity_add_new_comment">New Comment</string>
+    <string name="add_comment">add comment</string>
+</resources>
